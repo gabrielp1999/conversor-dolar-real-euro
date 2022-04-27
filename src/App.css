@@ -4,22 +4,28 @@
 }
 .App {
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .converter h2{
   margin: 5px 0px;
 }
 
-.coin-container {
+.container {
+  margin: 5px 0px;
   display: flex;
-  justify-content: center;
-  gap: 10px;
-  margin: 10px 0px;
+  gap: 5px;
 }
-.coin-container input {
+.container input {
   height: 20px;
   border: 1px solid gray;
 }
 .styleSelect {
   width: 90px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }

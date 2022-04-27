@@ -1,5 +1,6 @@
 import Converter from './Components/Converter';
 import './App.css';
+document.title = 'Conversor de Moeda'
 
 function App() {
   return (
