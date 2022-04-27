@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/conversor-dolar-real-euro/static/css/main.f3aedbf8.css",
+    "main.js": "/conversor-dolar-real-euro/static/js/main.a0cd9cea.js",
+    "static/js/787.e3d41e72.chunk.js": "/conversor-dolar-real-euro/static/js/787.e3d41e72.chunk.js",
+    "index.html": "/conversor-dolar-real-euro/index.html",
+    "main.f3aedbf8.css.map": "/conversor-dolar-real-euro/static/css/main.f3aedbf8.css.map",
+    "main.a0cd9cea.js.map": "/conversor-dolar-real-euro/static/js/main.a0cd9cea.js.map",
+    "787.e3d41e72.chunk.js.map": "/conversor-dolar-real-euro/static/js/787.e3d41e72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3aedbf8.css",
+    "static/js/main.a0cd9cea.js"
+  ]
+}
